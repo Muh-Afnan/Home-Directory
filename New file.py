@@ -1,0 +1,2 @@
+afnan = "khan"
+print(afnan)
